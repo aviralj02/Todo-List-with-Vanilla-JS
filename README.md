@@ -2,4 +2,4 @@
 Todo list made with HTML, CSS and Vanilla JS
 
 ## 	:camera_flash: Preview
-![preview](../preview.png)
+![preview](./preview.png)
