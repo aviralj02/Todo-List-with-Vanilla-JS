@@ -1,5 +1,10 @@
 # Todo-List-with-Vanilla-JS
-Todo list made with HTML, CSS and Vanilla JS
+A simple todo list to track tasks.
 
-## 	:camera_flash: Preview
+## 👨‍💻 Tech Stack
+* HTML
+* CSS
+* Vanilla Javascript
+
+## :camera_flash: Preview
 ![preview](./preview.png)
